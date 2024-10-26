@@ -1,5 +1,5 @@
 # 💫 About Me:
-🏆 Winner of HackUTA 2023<br>⚡ Worked with C, Python, HTML, CSS, and Javascript<br>🌱 I’m currently learning SQLite and Flask<br>🔭 I’m currently working on an online Ivy League Education app<br>💬 Ask me what I think about the current job market<br>📖 Check out "Artificial Ink: A Study of AI Done By Artificial Minds" on Amazon<br>
+🏆 Winner of HackUTA 2023<br>⚡Languages Known: Java, Python, JavaScript, TypeScript, C/C++, Kotlin, SQL (MySQL, PostgreSQL), HTML, CSS<br>🌱 Frameworks Known: Node.js, Flask, React, Next.js, JUnit, Tailwind CSS<br>🔭 Developer Tools Known: Git, GitHub, AWS, Docker, Kubernetes, Linux, Unix, MongoDB, Firebase, Selenium, Visual Studio<br>💬 Ask me what I think about the current job market<br>📖 Check out "Artificial Ink: A Study of AI Done By Artificial Minds" on Amazon<br>
 
 
 ## 🌐 Socials:
