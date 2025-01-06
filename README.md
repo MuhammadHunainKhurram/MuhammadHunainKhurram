@@ -1,5 +1,5 @@
 
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />
+<img src="github-header-image.png" alt="GitHub Banner" width="100%" />
 
 # Hello World 🤖! I'm Muhammad Khurram, a Software Engineer!
 🛜 Currently working on updating [MavGrades](https://www.mavgrades.com/)<br>👨🏼‍🎓 Studying Computer Science at The University of Texas at Arlington<br>👨🏼‍💻 Working as the Executive Officer for the Association of Computing Machinery (ACM)<br>🚀 Leetcoding every day!
